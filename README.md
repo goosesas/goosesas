@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @goosesas
+- 👀 I’m interested in [Software as a service](https://en.wikipedia.org/wiki/Software_as_a_service) Application
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
+- 💞️ I’m looking to collaborate on my learning
+- 📫 How to reach me goosesas.com@gmail.com
